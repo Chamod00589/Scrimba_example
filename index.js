@@ -38,8 +38,11 @@ popBtn.addEventListener("click", function(){
     renderEmojis()
 })
 
-const shiftBtn = document.getElementById("shift-btn")
-shiftBtn.addEventListener("click", function(){
-    myEmojis.shift()
-    renderEmojis()
-})
+// const shiftBtn = document.getElementById("shift-btn")
+// shiftBtn.addEventListener("click", function(){
+//     myEmojis.shift()
+//     renderEmojis()
+// })
+
+
+//add a comment for a example
